@@ -1,0 +1,23 @@
+body, html {
+  background-image: url("https://i.ibb.co/BPnx2sq/leaves-background.png");
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  line-height: 1.6;
+  }
+  
+  h1 {
+    color: rgb(63, 63, 63);
+    text-align: center;
+  }
+
+  #me-photo { 
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px 60px 20px 60px;
+    border: 3px solid #ddd;
+  }
+
+  p {
+    text-align: center;
+    font-style: oblique;
+    padding-top: 100px;
+    }
